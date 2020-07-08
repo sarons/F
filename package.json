@@ -6,6 +6,6 @@
 		"url": "https://github.com/lazd/F.git"
 	},
 	"dependencies": {
-		"grunt": "0.3"
+		"grunt": "1.2"
 	}
 }
